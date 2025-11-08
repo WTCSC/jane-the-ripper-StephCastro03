@@ -38,4 +38,5 @@ Wordlist file (wordlist.txt):
 - [-] Failed: 00000000000000000000000000000000  -->  Password not found in the wordlist
 - [!] Some hashes were not found in the wordlist provided
 
-How it Runs
+## How it Runs
+![alt text](image.png)
